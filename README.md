@@ -4,3 +4,4 @@
   </p>
 <p>效果图：（Map）
 </p>
+https://github.com/tompboy/HeatMap_Gaode/raw/master/gaode.png
